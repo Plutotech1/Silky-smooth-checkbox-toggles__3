@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="1.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Silky-smooth-checkbox-toggles__3/blob/main/IMG_4719.jpeg" width="49%">
     </div>
 </div>
 <br /><br />
